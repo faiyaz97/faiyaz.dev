@@ -239,20 +239,6 @@ nav.navbar .navbar-toggler.collapsed .navbar-toggler-icon {
   color: rgb(250,174,28);
 }
 
-.home img {
-  animation: updown 3s linear infinite;
-}
-@keyframes updown {
-    0% {
-        transform: translateY(-20px);
-    }
-    50% {
-        transform: translateY(20px);
-    }
-    100% {
-        transform: translateY(-20px);
-    }
-}
 
 /* About me */
 
