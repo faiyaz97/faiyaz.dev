@@ -13,7 +13,7 @@ export const Home = () => {
                         <h3 className="animate__animated animate__zoomInDown animate__fast">A Junior Full Stack Developer</h3>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
-                        <img className="animate__animated animate__fadeInRight animate__faster" src={avatar} alt="Header Image" height= "auto" width="100%"/>
+                        <img className="animate__animated animate__fadeInUp animate__faster" src={avatar} alt="Header Image" height= "auto" width="100%"/>
                     </Col>
                 </Row>
             </Container>
